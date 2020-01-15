@@ -1,5 +1,5 @@
 # tweepy
-scrape twitter using tweepy
+
 
 using tweepy to scrape a user's most recent N tweets
 
